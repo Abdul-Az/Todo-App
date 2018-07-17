@@ -15,7 +15,7 @@ Installing
 A step by step guide that tell you how to get a development env running
 
 Clone the github project
-
+```
  $ git clone https://github.com/Abdul-Az/Todo-App.git
 Navigate to project directory
 
@@ -29,3 +29,4 @@ Start the Application on web-server
  $ npm start 
 Simple build for production
  $ npm run build 
+```
